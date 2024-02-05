@@ -3,15 +3,21 @@
 # Ubuntu_customize
 
 ## Startship terminal
-![This is an image](https://github.com/whereisfarukk/Ubuntu_customize/blob/main/terminal.png)
+$\textrm{\large First install starship}$
 ```
---first install starship
 sudo snap install starship
---open bashrc in gedit
+```
+$\textrm{\large Open bashrc in gedit}$
+```
 gedit .bashrc
---in the bottom of bash file paste this line and save it
+```
+$\textrm{\large In the bottom of bash file paste this line and save it}$
+```
 eval "$(starship init bash)"
 ```
+![This is an image](https://github.com/whereisfarukk/Ubuntu_customize/blob/main/terminal.png)
+
+
 ## Appearance
    
 $\textrm{\large Download the kripton theme from }$  [here](https://www.gnome-look.org/p/1365372)
